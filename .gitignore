@@ -1,2 +1,5 @@
 *.jar
-org/nkhApp/*.class
+*.class
+.idea
+out
+*.iml
